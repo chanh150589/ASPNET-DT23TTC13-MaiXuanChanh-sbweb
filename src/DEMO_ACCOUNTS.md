@@ -13,8 +13,8 @@
 - ✅ Xem doanh thu và báo cáo
 
 ## 👤 Tài khoản Khách hàng Demo
-- **Email**: `customer@demo.com`
-- **Mật khẩu**: `Demo123!`
+- **Email**: `chanh.tantuc@gmail.com`
+- **Mật khẩu**: `Nvt@2526`
 - **Quyền**: Đặt sân và quản lý booking cá nhân
 
 ### Chức năng Customer:
@@ -25,7 +25,7 @@
 - ✅ Hủy booking
 
 ## 🌐 Truy cập Website
-- **URL**: http://localhost:5000
+- **URL**: http://localhost:5029
 - **Admin Panel**: http://localhost:5000/Admin
 
 ## 🎯 Tính năng nổi bật
