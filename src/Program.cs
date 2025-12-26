@@ -66,10 +66,10 @@ using (var scope = app.Services.CreateScope())
     {
         var customerUser = new ApplicationUser
         {
-            UserName = "customer@demo.com",
-            Email = "customer@demo.com",
-            Name = "Nguyễn Văn Demo",
-            Phone = "0987654321",
+            UserName = "chanh.tantuc@gmail.com",
+            Email = "chanh.tantuc@gmail.com",
+            Name = "Mai Xuân Chánh",
+            Phone = "0967022362",
             Role = "customer",
             EmailConfirmed = true
         };
